@@ -1,3 +1,10 @@
+---
+toc: true
+layout: post
+description: Lauching my new AWS Lambda/Huggingface Optimization Project
+categories: [markdown]
+title: Launching the Serverless Optimization Project
+---
 # First Post about this project
 
 After about a month of setting up basic concept and executing it, I have reached a milestone and am ready to start sharing my results and plans regarding this project.
