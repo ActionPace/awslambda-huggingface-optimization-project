@@ -485,4 +485,8 @@ p code { font-size: 35px; }
 
 body { font-size: 20px !important; }
 
+li h3, li h4 { margin-top: .05rem !important; margin-bottom: .05rem !important; }
+
+li .post-meta-description { color: #585858; font-size: 20px !important; margin-top: .05rem !important; margin-bottom: .05rem !important; }
+
 /*# sourceMappingURL=style.css.map */
