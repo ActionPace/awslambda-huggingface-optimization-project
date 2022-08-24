@@ -25,7 +25,7 @@ According to Amazon, there is a lot of potential power and price savings to be h
 
 So, I set out to set up a Optimization Test where I could get response times from a basic Huggingface language model for 2 different architectures and 4 different operating systems.
 
-![Google pic1](/images/GooglePic1.png)
+![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/GooglePic1.png)
 
 They are:
 
