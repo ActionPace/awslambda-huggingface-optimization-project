@@ -491,4 +491,6 @@ li .post-meta-description { color: #585858; font-size: 20px !important; margin-t
 
 main.page-content { background: linear-gradient(-180deg, rgba(255, 255, 255, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%) !important; }
 
+div.wrapper { background-color: white; }
+
 /*# sourceMappingURL=style.css.map */
