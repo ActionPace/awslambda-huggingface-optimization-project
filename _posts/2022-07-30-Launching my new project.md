@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Lauching my new AWS Lambda/Huggingface Optimization Project
-categories: [markdown]
+categories: [NLP]
 title: Launching the Serverless Optimization Project
 ---
 # First Post about this project
