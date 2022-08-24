@@ -27,18 +27,5 @@ According to Amazon, there is a lot of potential power and price savings to be h
 
 So, I set out to set up a Optimization Test where I could get response times from a basic Huggingface language model for 2 different architectures and 4 different operating systems.
 
-![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/GooglePic1.png)
+![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/ProcessorsAndOS.png)
 
-They are:
-
-* X86 (X86_64)
-* ARM (aarch64)
-
-and 
-
-* Amazon Linux 2
-* Amazon Linux 2022
-* Ubuntu 20.04
-* Ubuntu 22.04
-
-<iframe title="ServerlessTimings - Small - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzYwZDM5OWEtMGE0OC00YTBkLTg3M2QtYTZiNDMwZWQ0YmIwIiwidCI6ImZiMzMyOTk2LTQ3NjktNGJlNi05ZjA0LWZmNDgwM2Y3ZmFmOCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
