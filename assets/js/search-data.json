@@ -39,8 +39,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "ABOUT ME . Engineer | Programmer | Researcher | Entrepreneur | .",
+          "title": "ABOUT ME",
+          "content": "Engineer | Programmer | Researcher | Entrepreneur | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/about/",
           "relUrl": "/about/",
           "date": ""
