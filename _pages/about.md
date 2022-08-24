@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About Me
+title: ABOUT ME
 permalink: /about/
 ---
-
-## ABOUT ME
-
 * Engineer
 * Programmer
 * Researcher
