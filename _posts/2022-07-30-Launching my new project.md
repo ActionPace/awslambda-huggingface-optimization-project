@@ -15,6 +15,8 @@ The idea is that hosting these large, relatively slow language models can become
 
 If it were possible to make use of the AWS Lambda Serverless environment and utilize all available hardware and optimization tools and techniques, would it be possible to obtain acceptable response time?
 
+![PowerBI1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/PowerBI1.png)
+
 This is what I wanted to find out!
 
 After some initial research, I discovered that there are two kinds of CPU architectures available on AWS Lambda:
