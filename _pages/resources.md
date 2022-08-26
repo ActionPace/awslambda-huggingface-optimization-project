@@ -18,4 +18,4 @@ This site will show the basic information regarding the content in this project.
 
 | <strong>[Understand In Depth](../understand)</strong>|<strong>[Optimize Effectively](../performance)</strong>|<strong>[Deploy AI Models](../deploy)</strong>|<strong>[Build Applications](../appdev)</strong>|
 | :-: | :-: | :-: | :-: | 
-| ![Google pic1](../../../raw/master/images/Icon4.png)|![Google pic1](../../../raw/master/images/Icon3.png)|![Google pic1](../../../raw/master/images/Icon2.png)|![Google pic1](../../../raw/master/images/icon1.png)|
+| ![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon4.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon3.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon2.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/icon1.png)|
