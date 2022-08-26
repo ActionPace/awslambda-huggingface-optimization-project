@@ -9,7 +9,6 @@ permalink: /about/
 * Entrepreneur
 
 ### **RESEARCH SKILLS**
-
 * I am able to peruse large amounts of information and dig to the core of the info to extract more immediate value in terms of quick execution and manageable expansion
 * Resourcefulness is one of my guiding values
 
@@ -30,8 +29,9 @@ permalink: /about/
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 ### **WAYS TO CONTACT ME TO LEARN MORE**
 
-| **Telegram** | **Facebook** | **Github** |
+| **[Telegram](https://t.me/ActionPace)** | **[Facebook](https://www.facebook.com/ActionPace)** | **[Github](https://github.com/ActionPace)** |
+| :-: | :-: | :-: |
 | [![Telegram](../images/Telegram-Big.png)](https://t.me/ActionPace) | [![Facebook](../images/Facebook.jpg)](https://www.facebook.com/ActionPace/) | [![Github](../images/Github.png)](https://github.com/ActionPace) | 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge"></a></div> 
+<div style="text-align: center;" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge"></a></div> 
 
