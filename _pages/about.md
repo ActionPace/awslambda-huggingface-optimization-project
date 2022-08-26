@@ -28,8 +28,8 @@ permalink: /about/
 * Roving Entrepreneurial Skills Seeker/Technology & Business Researcher, USA and abroad, 2009-today
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
+### **WAYS TO CONTACT ME TO LEARN MORE**
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge"></a></div> 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge">David King</a></div> 
-
-| Telegram | Facebook |
-| [![Telegram](../images/Telegram-Small.png)](https://t.me/ActionPace) | [![Facebook](../images/Facebook.jpg)](https://www.facebook.com/ActionPace/) | [![Github](../images/Github.png)](https://github.com/ActionPace) | 
+| **Telegram** | **Facebook** | **Github** |
+| [![Telegram](../images/Telegram-Big.png)](https://t.me/ActionPace) | [![Facebook](../images/Facebook.jpg)](https://www.facebook.com/ActionPace/) | [![Github](../images/Github.png)](https://github.com/ActionPace) | 
