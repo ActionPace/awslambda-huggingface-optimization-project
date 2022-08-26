@@ -16,3 +16,14 @@ permalink: /about/
 ### **TECHNICAL SKILLS**
 * I have a knack for getting things to work without spending months learning the relevant details to applying the technology in a practical way
 * Dig into details as needed for practicality's sake
+
+### **David King, Greater D.C. Area**
+
+* B.S. Electrical/Computer Engineering, Drexel University, Phila. PA 1989-1995
+* M.E. Computer Engineering, Stevens Institute of Technology, Hoboken, NJ 1996-1998
+* Primary IT Programmer/Analyst/Operations, Agrichemicals Division, Arkema, Phila. PA, 1988-1996
+* Sr. SAP Basis and Systems Administrator, Penguin Random House, 1996-2009
+* Roving Entrepreneurial Skills Seeker/Technology & Business Researcher, USA and abroad, 2009-today
+
+
+| <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge">David King</a></div> |            
