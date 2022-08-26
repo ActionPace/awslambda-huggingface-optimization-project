@@ -31,6 +31,6 @@ So, I set out to set up a Optimization Test where I could get response times fro
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-| <strong>[Understand In Depth](../understand)</strong>|<strong>[Optimize Effectively](../performance)</strong>|<strong>[Deploy AI Models](../deploy)</strong>|<strong>[Build Applications](../appdev)</strong>|
+| <strong>[Understand In Depth](https://actionpace.github.io/awslambda-huggingface-optimization-project/understand)</strong>|<strong>[Optimize Effectively](https://actionpace.github.io/awslambda-huggingface-optimization-project/performance)</strong>|<strong>[Deploy AI Models](https://actionpace.github.io/awslambda-huggingface-optimization-project/deploy)</strong>|<strong>[Build Applications](https://actionpace.github.io/awslambda-huggingface-optimization-project/appdev)</strong>|
 | :-: | :-: | :-: | :-: | 
 | ![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon4.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon3.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon2.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/icon1.png)|
