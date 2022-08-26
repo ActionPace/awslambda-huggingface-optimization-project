@@ -2,7 +2,7 @@
 layout: page
 permalink: /performance/
 ---
-<h1 style="text-align: center;"><strong>OPTIMIZE EFFECTIVELY</strong></h1>
+<h1 style="text-align: center;"><strong>OPTIMIZE   EFFECTIVELY</strong></h1>
 
 ### **WHAT IS THE PROCESS…?**
 * Understanding the potential and uses for the technology
@@ -21,6 +21,6 @@ permalink: /performance/
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-| <strong>[Understand In Depth](understand)</strong>|<strong>Optimize Effectively</strong>|<strong>[Deploy AI Models](deploy)</strong>|<strong>[Build Applications](appdev)</strong>|
+| <strong>[Understand In Depth](../understand)</strong>|<strong>Optimize Effectively</strong>|<strong>[Deploy AI Models](../deploy)</strong>|<strong>[Build Applications](../appdev)</strong>|
 | :-: | :-: | :-: | :-: | 
 | ![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon4.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon3.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon2.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/icon1.png)|
