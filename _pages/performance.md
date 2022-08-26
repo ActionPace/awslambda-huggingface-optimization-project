@@ -2,7 +2,7 @@
 layout: page
 permalink: /performance/
 ---
-<h1 style="text-align: center;"><strong>OPTIMIZE   EFFECTIVELY</strong></h1>
+<h1 style="text-align: center;"><strong>OPTIMIZE     EFFECTIVELY</strong></h1>
 
 ### **WHAT IS THE PROCESS…?**
 * Understanding the potential and uses for the technology
