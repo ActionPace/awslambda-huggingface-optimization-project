@@ -26,4 +26,4 @@ permalink: /about/
 * Roving Entrepreneurial Skills Seeker/Technology & Business Researcher, USA and abroad, 2009-today
 
 
-| <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge">David King</a></div> |            
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge">David King</a></div>
