@@ -34,3 +34,6 @@ permalink: /understand/
 4. Investigate benchmarks and baseline for typical responses on various hardware/software/optimization combinations?
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
+| <strong>[Understand In Depth](understand)</strong>|<strong>[Optimize Effectively](performance)</strong>|<strong>[Deploy AI Models](deploy)</strong>|<strong>[Build Applications](appdev)</strong>|
+| :-: | :-: | :-: | :-: | 
+| ![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon4.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon3.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/Icon2.png)|![Google pic1](https://github.com/ActionPace/awslambda-huggingface-optimization-project/raw/master/images/icon1.png)|
