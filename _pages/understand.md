@@ -2,7 +2,7 @@
 layout: page
 permalink: /understand/
 ---
-<h1 style="text-align: center;"><strong>UNDERSTAND     IN     DEPTH</strong></h1>
+<h1 style="text-align: center;"><strong>UNDERSTAND &nbsp;IN &nbsp;DEPTH</strong></h1>
 
 ## **PROCESS TO BEGIN EXPERIMENTING NLP AI**
 1. Choose which Task Type you want to perform
