@@ -29,6 +29,6 @@ permalink: /about/
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
-| <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge">David King</a></div> | [![Foo](../images/Telegram-Small.png)](https://t.me/ActionPace) |
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge">David King</a></div> 
 
-
+| [![Foo](../images/Telegram-Small.png)](https://t.me/ActionPace) |
