@@ -2,7 +2,7 @@
 layout: page
 permalink: /appdev/
 ---
-<h1 style="text-align: center;"><strong>BUILD     APPLICATIONS</strong></h1>
+<h1 style="text-align: center;"><strong>BUILD &nbsp;&nbsp;APPLICATIONS</strong></h1>
 
 ## **NATURAL LANGUAGE PROCESSING**
 
