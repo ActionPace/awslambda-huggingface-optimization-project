@@ -38,9 +38,20 @@
   
 
   
+      ,"page3": {
+          "title": "",
+          "content": "This is a test for a new article .",
+          "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/deploy/",
+          "relUrl": "/deploy/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page4": {
+
+  
+      ,"page5": {
           "title": "",
           "content": "This is a test for a new article .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/newarticle/",
@@ -51,7 +62,7 @@
   
 
   
-      ,"page5": {
+      ,"page6": {
           "title": "Resources",
           "content": "As I move forward, I will list the resources here for the Huggingface/AWS Lambda Optimization project. . This site will show the basic information regarding the content in this project. . LINKS . Fastpages Notebook Blog Post | An Example Markdown Post | Github Markdown - Basic writing and formatting syntax | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/resources/",
@@ -81,7 +92,7 @@
   
 
   
-      ,"page13": {
+      ,"page14": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/robots.txt",
