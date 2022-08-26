@@ -33,5 +33,5 @@ permalink: /about/
 | :-: | :-: | :-: |
 | [![Telegram](../images/Telegram-Big.png)](https://t.me/ActionPace) | [![Facebook](../images/Facebook.jpg)](https://www.facebook.com/ActionPace/) | [![Github](../images/Github.png)](https://github.com/ActionPace) | 
 
-<div style="text-align: center !important;" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge"></a></div> 
+<div style="margin: auto;" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidking456" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/davidking456?trk=profile-badge"></a></div>
 
