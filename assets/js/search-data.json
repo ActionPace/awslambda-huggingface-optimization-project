@@ -96,7 +96,7 @@
   
       ,"page12": {
           "title": "",
-          "content": "This is a test for a new article .",
+          "content": "PROCESS TO BEGIN EXPERIMENTING NLP AI . Choose which Task Type you want to perform Fill-mask | Question Answering | Sentence Similarity | Summarization | Text Classification | Text Generation | Token Classification | Translation | Zero-Shot Classification | . | Create prototype and proof of concept on Google Colab or other lost cost AI platform | Decide how to want to deploy your AI service An app on your computer | A remote service on the Internet | A phone or mobile device | Embedded in a single board computer | . | Decide on the desired response time needed to balance cost/effort needed Pay more for hardware and cloud services | Focus on options and resources for model optimization | Run benchmarks and compare to baseline to see if the cost vs response time balance is optimal | . | . PROCESS TO IMPLEMENT AI MODEL AT LOW COST . Model size and baseline response time | Money for a GPU or specialized Cloud Service? | Want a dedicated server or latent remote service that’s always there when you need it? | Investigate benchmarks and baseline for typical responses on various hardware/software/optimization combinations? | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/understand/",
           "relUrl": "/understand/",
           "date": ""
