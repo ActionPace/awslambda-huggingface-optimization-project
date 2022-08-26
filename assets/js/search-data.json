@@ -63,6 +63,17 @@
 
   
       ,"page6": {
+          "title": "",
+          "content": "This is a test for a new article .",
+          "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/performance/",
+          "relUrl": "/performance/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page7": {
           "title": "Resources",
           "content": "As I move forward, I will list the resources here for the Huggingface/AWS Lambda Optimization project. . This site will show the basic information regarding the content in this project. . LINKS . Fastpages Notebook Blog Post | An Example Markdown Post | Github Markdown - Basic writing and formatting syntax | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/resources/",
@@ -92,7 +103,7 @@
   
 
   
-      ,"page14": {
+      ,"page15": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/robots.txt",
