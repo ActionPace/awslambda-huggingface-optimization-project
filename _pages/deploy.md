@@ -2,7 +2,7 @@
 layout: page
 permalink: /deploy/
 ---
-<h1 style="text-align: center;"><strong>DEPLOY     AI     MODELS</strong></h1>
+<h1 style="text-align: center;"><strong>DEPLOY &nbsp;AI &nbsp;MODELS</strong></h1>
 
 ## **INTRODUCING YOU TO SOME BASIC AND IMPORTANT CONCEPTS OF NLP AI**
 
