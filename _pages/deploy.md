@@ -19,6 +19,7 @@ permalink: /deploy/
 * Optimizing your models without reinventing the wheel
 * Utilize analysis tools to know what is really working and where the best value is
 * Reap tons of value with AWS Lambda Serverless Framework
+<p style="text-align: center;"><strong><a href="https://actionpace.github.io/awslambda-huggingface-optimization-project/contact/">Contact Me</a></strong></p>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
