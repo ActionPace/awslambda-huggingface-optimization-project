@@ -18,6 +18,7 @@ permalink: /performance/
 * Knowing the easiest ways to get started
 * How to build a simple AI app which solves your own needs
 * How to leverage the existing ai at low cost to you
+<p style="text-align: center;"><strong><a href="https://actionpace.github.io/awslambda-huggingface-optimization-project/contact/">Contact Me</a></strong></p>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
