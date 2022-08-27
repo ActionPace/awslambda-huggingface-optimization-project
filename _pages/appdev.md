@@ -21,7 +21,7 @@ permalink: /appdev/
 * How much money are companies investing in NLP AI applications?
 * What are the main breakthroughs and market shifts that have occurred recently?
 * What might you be missing if you don"t follow along
-<p style="text-align: center;"><strong><a href="https://github.com/ActionPace/awslambda-huggingface-optimization-project/contact">Contact Me</a>[]()</strong></p>
+<p style="text-align: center;"><strong><a href="https://actionpace.github.io/awslambda-huggingface-optimization-project/contact/">Contact Me</a></strong></p>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
