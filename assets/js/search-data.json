@@ -40,6 +40,17 @@
   
       ,"page3": {
           "title": "",
+          "content": "CONTACT &nbsp;AI &nbsp;INFORMATION . CONTACT ME FOR MORE INFORMATION . . CONTACT ME TODAY - WAYS TO LEARN MORE: . Telegram Facebook Github . | | | .",
+          "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/contact/",
+          "relUrl": "/contact/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
+          "title": "",
           "content": "DEPLOY &nbsp;AI &nbsp;MODELS . INTRODUCING YOU TO SOME BASIC AND IMPORTANT CONCEPTS OF NLP AI . CHALLENGES TO HOSTING NLP AI MODELS . Why this wasn’t a problem before for experimenters | New hurdles to embedding language models into apps | Balancing cost vs response time | This actually creates a barrier to entry and a shortage of know-how which you can take advantage of if you start sooner than later | . HOW TO AVOID PAYING CLOUD PROVIDERS BIG MONEY TO SIMPLY HOST YOUR MODELS . Logic behind choosing CPU vs GPU and Intel vs ARM | What’s a GPU really do? | Optimizing your models without reinventing the wheel | Utilize analysis tools to know what is really working and where the best value is | Reap tons of value with AWS Lambda Serverless Framework | . . Understand In Depth Optimize Effectively Deploy AI Models Build Applications . | | | | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/deploy/",
           "relUrl": "/deploy/",
@@ -51,7 +62,7 @@
   
 
   
-      ,"page5": {
+      ,"page6": {
           "title": "",
           "content": "This is a test for a new article .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/newarticle/",
@@ -62,7 +73,7 @@
   
 
   
-      ,"page6": {
+      ,"page7": {
           "title": "",
           "content": "OPTIMIZE &nbsp;EFFECTIVELY . WHAT IS THE PROCESS…? . Understanding the potential and uses for the technology | Understand how to use NLP for your own purposes | How to build something useful with NLP AI | . STARTING TO APPLY MODELS TO REAL APPLICATIONS . How and where to deploy models inexpensively | Knowing the options and prices | Optimizing transformer models (What are the practical ways?) | . BUILDING AI APPLICATIONS . Knowing the easiest ways to get started | How to build a simple AI app which solves your own needs | How to leverage the existing ai at low cost to you | . . Understand In Depth Optimize Effectively Deploy AI Models Build Applications . | | | | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/performance/",
@@ -73,7 +84,7 @@
   
 
   
-      ,"page7": {
+      ,"page8": {
           "title": "Resources",
           "content": "As I move forward, I will list the resources here for the Huggingface/AWS Lambda Optimization project. . This site will show the basic information regarding the content in this project. . LINKS . Fastpages Notebook Blog Post | An Example Markdown Post | Github Markdown - Basic writing and formatting syntax | . . Understand In Depth Optimize Effectively Deploy AI Models Build Applications . | | | | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/resources/",
@@ -94,7 +105,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "UNDERSTAND &nbsp;IN &nbsp;DEPTH . PROCESS TO BEGIN EXPERIMENTING NLP AI . Choose which Task Type you want to perform Fill-mask | Question Answering | Sentence Similarity | Summarization | Text Classification | Text Generation | Token Classification | Translation | Zero-Shot Classification | . | Create prototype and proof of concept on Google Colab or other lost cost AI platform | Decide how to want to deploy your AI service An app on your computer | A remote service on the Internet | A phone or mobile device | Embedded in a single board computer | . | Decide on the desired response time needed to balance cost/effort needed Pay more for hardware and cloud services | Focus on options and resources for model optimization | Run benchmarks and compare to baseline to see if the cost vs response time balance is optimal | . | . PROCESS TO IMPLEMENT AI MODEL AT LOW COST . Model size and baseline response time | Money for a GPU or specialized Cloud Service? | Want a dedicated server or latent remote service that’s always there when you need it? | Investigate benchmarks and baseline for typical responses on various hardware/software/optimization combinations? | . Understand In Depth Optimize Effectively Deploy AI Models Build Applications . | | | | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/understand/",
@@ -114,7 +125,7 @@
   
 
   
-      ,"page16": {
+      ,"page17": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://actionpace.github.io/awslambda-huggingface-optimization-project/robots.txt",
