@@ -25,6 +25,7 @@ permalink: /understand/
   * Pay more for hardware and cloud services
   * Focus on options and resources for model optimization
   * Run benchmarks and compare to baseline to see if the cost vs response time balance is optimal
+<p style="text-align: center;"><strong><a href="https://actionpace.github.io/awslambda-huggingface-optimization-project/contact/">Contact Me</a></strong></p>
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
